@@ -1,0 +1,11 @@
+^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{$
+!     Spy Visits Spy BBS            <
+*}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}=
+! [C] Check Mail   [S] Scan Messages<
+! [E] Send Mail    [T] Transfer Menu<
+! [F] FILE MENU    [U] Settings     <
+! [K] Kill Mail    [J] Join Conf    <
+! [Q] Quit to Main [Y] Settings     <
+! [R] Read Mail    [G] Goodbye      <
+! [H] Help Leel    [?] Hello        <
+~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>%

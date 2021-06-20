@@ -1,0 +1,19 @@
+5Ú5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5Ä5¿
+5³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3yI3yn3yt3ye3yr3yn3ye3yt3y 3yM3ye3yn3yu3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3yS3yp3yy3y 3yV3yi3ys3yi3yt3ys3y 3yS3yp3yy3y 3yB3yB3yS3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5yÃ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5y´
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 4m[3yT4m]3y 3yT3ye3yl3yn3ye3yt3y 3yO3yu3yt3yb3yo3yu3yn3yd3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 4m[3yF4m]3y 3yF3yT3yP3y 3yO3yu3yt3yb3yo3yu3yn3yd3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 4m[3y?4m]3y 3yI3yn3yf3yo3y 3yo3yn3y 3yT3ye3yl3yn3ye3yt3y 3ya3yn3yd3y 3y 3yF3yT3yP3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5y³3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 4m[3yQ4m]3y 3yQ3yu3yi3yt3y 3yt3yo3y 3yP3yr3ye3yv3yi3yo3yu3ys3y 3yM3ye3yn3yu3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 3y 5y³
+5yÀ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÄ5yÙ
+@07@
+ You are about to establish a connection to an Internet host.
+ The performance, reliability, availability and content of Internet
+ hosts is beyond @SYSTEM.BBSNAME@'s control.
+
+ Conference : @CONF.NAME@
+ Time Left  : @USER.TIMELEFTTODAY@
+ Command >>  

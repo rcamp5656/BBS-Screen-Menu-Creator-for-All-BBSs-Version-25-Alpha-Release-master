@@ -1,0 +1,15 @@
+^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{+
+!! Spy Visits Spy BBS Sysop Menu   <<
+!*{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{=<
+!! [A] Activity   [Q] Quit         <<
+!! [G] Goodbye    [B] Broadcast Msg<<
+!! [S] Status     [H] Help         <<
+!! [F] File DB    [U] User Database<<
+!! [J] Join Conf  [K] Kill Logs    <<
+!! [1] MESSAGES   [2] Files        <<
+!! [3] WtLord Set [Y] Settings     <<
+!! [Y] Settings   [N] View Nodes   <<
+!! [C] Config WCX [V] View Log     <<
+!! [V] View LOG   [?] Help         <<
+!~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>%<
+~{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{%

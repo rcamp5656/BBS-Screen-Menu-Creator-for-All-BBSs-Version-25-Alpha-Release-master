@@ -1,0 +1,16 @@
+^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{$
+!   Spy Visits Spy BBS  Main Menu   <
+*}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}=
+!  [B] Bulletin  [P] Page Sysop     <
+!  [G] Goodbye   [C] Comments       <
+!  [Q] Question  [H] Help           <
+!  [D] Games     [S] Stats          <
+!  [J] Join Conf [F] File Menu      <
+!  [U] User List [Y] Your Settings  <
+!  [I] Welcome   [V] Verify User    <
+!  [?] Help      [W] Who is Online  <
+!  [L] Chat      [M] Messages       <
+!  [N] News      [P] Page User      <
+!  [X] Internet  [2] Screen Maker   <
+~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>%
+

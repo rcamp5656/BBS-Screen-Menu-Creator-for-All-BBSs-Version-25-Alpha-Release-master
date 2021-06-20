@@ -1,0 +1,14 @@
+^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{$
+!  Spy Visits Spy BBS File Menu     <
+!>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><
+! [D] Download    [P] Stats         <
+! [G] Goodbye     [E] Edit List     <
+! [Q] Quit        [H] Help Level    <
+! [I] File Info   [S] File Search   <
+! [J] Join Conf   [L] List Files    <
+! [U] Upload      [Y] Settings      <
+! [M] MESSAGES    [V] View Files    <
+! [N] New Files   [F] File Help     <
+! [C] Help        [R] Reserved      <
+~}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}%
+

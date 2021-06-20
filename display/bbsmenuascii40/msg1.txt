@@ -1,0 +1,12 @@
+^{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{$
+!            Message Menu           <
+*}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}=
+!         Spy Visits Spy  BBS       <
+*}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}=
+! [C] Check Mail   [S] Scan Messages<
+! [E] New Mail     [J] Join Conf    <
+! [F] FILE MENU    [U] Settings     <
+! [G] Goodbye      [H] Help Level   <
+! [Q] Quit to Main [?] Command Help <
+! [R] Read Mail    [R] Reserved     <
+~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>%
